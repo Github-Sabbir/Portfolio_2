@@ -13,25 +13,12 @@ Service
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="service-item  position-relative">
               <div class="icon">
-                <i class="bi bi-activity"></i>
+                <i class="bi bi-code"></i>
               </div>
               <a href="service-details.html" class="stretched-link">
-                <h3>Nesciunt Mete</h3>
+                <h3>Frontend</h3>
               </a>
-              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
-            </div>
-          </div>
-          <!-- End Service Item -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="service-item position-relative">
-              <div class="icon">
-                <i class="bi bi-broadcast"></i>
-              </div>
-              <a href="service-details.html" class="stretched-link">
-                <h3>Eosle Commodi</h3>
-              </a>
-              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+              <p>Dedicated frontend solutions for crafting captivating designs and seamless user experiences tailored to your unique requirements</p>
             </div>
           </div>
           <!-- End Service Item -->
@@ -39,12 +26,25 @@ Service
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="bi bi-easel"></i>
+              <i class="bi bi-shuffle"></i>
               </div>
               <a href="service-details.html" class="stretched-link">
-                <h3>Ledo Markt</h3>
+                <h3>Responsive Design</h3>
               </a>
-              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+              <p>Responsive design strategies that enhance website accessibility, providing a consistent and engaging experience for users on desktops, tablets, and smartphones.</p>
+            </div>
+          </div>
+          <!-- End Service Item -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-journal-code"></i>
+              </div>
+              <a href="service-details.html" class="stretched-link">
+                <h3>Backend</h3>
+              </a>
+              <p>Expert backend services for optimizing systems, ensuring efficiency, and safeguarding your business operations with tailored solutions</p>
             </div>
           </div>
           <!-- End Service Item -->
@@ -52,12 +52,12 @@ Service
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="800">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="bi bi-bounding-box-circles"></i>
+                <i class="bi bi-bug"></i>
               </div>
               <a href="service-details.html" class="stretched-link">
-                <h3>Asperiores Commodit</h3>
+                <h3>Problem Solving</h3>
               </a>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
+              <p>Tailored backend problem-solving solutions for seamless operations and optimized performance in your unique business environment</p>
               <a href="service-details.html" class="stretched-link"></a>
             </div>
           </div>
@@ -66,12 +66,12 @@ Service
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="bi bi-calendar4-week"></i>
+                <i class="bi bi-fingerprint"></i>
               </div>
               <a href="service-details.html" class="stretched-link">
-                <h3>Velit Doloremque</h3>
+                <h3>Security</h3>
               </a>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
+              <p>Specialized backend security solutions ensuring robust protection for your business operations and sensitive data.</p>
               <a href="service-details.html" class="stretched-link"></a>
             </div>
           </div>
@@ -80,12 +80,12 @@ Service
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="bi bi-chat-square-text"></i>
+                <i class="bi bi-plus-lg"></i>
               </div>
               <a href="service-details.html" class="stretched-link">
-                <h3>Dolori Architecto</h3>
+                <h3>Custom</h3>
               </a>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
+              <p>Custom backend security solutions safeguarding systems for your unique needs and business protection.</p>
               <a href="service-details.html" class="stretched-link"></a>
             </div>
           </div>
