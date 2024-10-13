@@ -75,6 +75,13 @@ Resume
 
       </div>
 
+      <div class="col-md-12 text-center contact" data-aos="fade-up" data-aos-delay="600">
+        <div class="php-email-form">
+          <a href="{{ asset('/')}}/Frontend/assets/pdf/mdAbdulAlimCv.pdf" download>
+              <button type="submit">Download CV</button>
+          </a>
+        </div>
+      </div>
     </section><!-- /Resume Section -->
 
   </main>

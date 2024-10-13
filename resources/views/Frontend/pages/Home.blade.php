@@ -6,7 +6,7 @@ Home
 <main class="main">
   <!-- Hero Section -->
   <section id="hero" class="hero section dark-background">
-    <img src="{{ asset('/') }}/Frontend/assets/img/hero-bg.jpg" alt="" data-aos="fade-out">
+    <img src="{{ asset('/')}}Frontend/assets/img/hero-bg.png" alt="" data-aos="fade-out">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
       <h2>MD ABDUL ALIM</h2>
       <p>I'm <span class="typed" data-typed-items="Frontend Designer, Backend Developer, Laravel Developer">Freelancer</span><span class="typed-cursor typed-cursor--blink"></span></p>
