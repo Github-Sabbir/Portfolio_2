@@ -5,18 +5,13 @@ Contact
 @section('body')
 
 <main class="main">
-
 <!-- Page Title -->
 @include('Frontend.includes.topBarTitle')
 <!-- End Page Title -->
-
 <!-- Contact Section -->
 <section id="contact" class="contact section">
-
   <div class="container" data-aos="fade-up" data-aos-delay="100">
-
     <div class="row gy-4">
-
       <div class="col-md-6">
         <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="200">
           <i class="icon bi bi-geo-alt flex-shrink-0"></i>
@@ -25,8 +20,8 @@ Contact
             <p>Dorikhorbona, Rajshahi</p>
           </div>
         </div>
-      </div><!-- End Info Item -->
-
+      </div>
+      <!-- End Info Item -->
       <div class="col-md-6">
         <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="300">
           <i class="icon bi bi-telephone flex-shrink-0"></i>
@@ -35,8 +30,8 @@ Contact
             <p>+880 1775 881137</p>
           </div>
         </div>
-      </div><!-- End Info Item -->
-
+      </div>
+      <!-- End Info Item -->
       <div class="col-md-6">
         <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="400">
           <i class="icon bi bi-envelope flex-shrink-0"></i>
@@ -45,8 +40,8 @@ Contact
             <p>mdabdulalimsabbir111@gmail.com</p>
           </div>
         </div>
-      </div><!-- End Info Item -->
-
+      </div>
+      <!-- End Info Item -->
       <div class="col-md-6">
         <div class="info-item d-flex align-items-center" data-aos="fade-up" data-aos-delay="500">
           <i class="icon bi bi-share flex-shrink-0"></i>
@@ -62,15 +57,13 @@ Contact
             </div>
           </div>
         </div>
-      </div><!-- End Info Item -->
-
+      </div>
+      <!-- End Info Item -->
     </div>
 @include('Frontend.includes.contactForm')
   </div>
-
-</section><!-- /Contact Section -->
-
+</section>
+<!-- /Contact Section -->
 </main>
-
 @include('Frontend.includes.footer')
 @endsection
