@@ -17,57 +17,58 @@ Resume
             <h3 class="resume-title">Sumary</h3>
 
             <div class="resume-item pb-0">
-              <h4>Brandon Johnson</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <h4>MD ABDUL ALIM</h4>
+              <p><em>Innovative and deadline-driven Web Developer with 1+ years of experience designing and building user-centered digital solutions from initial concept to final deployment. Proficient in front-end and back-end technologies, ensuring seamless functionality and a responsive user experience.</em></p>
               <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
+                <li>Dorikhorbona, Rajshahi</li>
+                <li>+880&nbsp;1775&nbsp;881137</li>
+                <li>mdabdulalimsabbir000@gmail.com</li>
               </ul>
             </div><!-- Edn Resume Item -->
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h4>Diploma in Engineering</h4>
+              <h5>2019 - 2020</h5>
+              <p><em>Rajshahi Polytechnic Institute</em></p>
+              <p>Driven Computer Science student skilled in programming and software development. Passionate about solving real-world problems and eager to apply my knowledge to innovative projects while gaining hands-on experience.</p>
             </div><!-- Edn Resume Item -->
 
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <h4>Secondary School Certificate</h4>
+              <h5>2019</h5>
+              <p><em>Rajshahi Muslim High School</em></p>
+              <p>Motivated Science student with a keen interest in understanding scientific principles and their applications. Enthusiastic about conducting experiments and exploring new ideas. Committed to learning and excelling in the field while making meaningful contributions.</p>
             </div><!-- Edn Resume Item -->
 
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <h3 class="resume-title">Professional Experience</h3>
+
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>Web Designer</h4>
+              <h5>2024</h5>
+              <p><em>Rajshahi MP-Corporation</em></p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>Design and develop user-friendly web and mobile interfaces.</li>
+                <li>Assign tasks to a team of 7 designers, offering mentorship and guidance throughout the design process.</li>
+                <li>Oversee the quality control of all frontend assets to guarantee visual accuracy and adherence to brand standards. Review designs to ensure they are accurate and high-quality</li>
+                <li>Manage and optimize production budgets for design initiatives, ensuring effective allocation of resources between $2,000 and $15,000</li>
               </ul>
             </div><!-- Edn Resume Item -->
 
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>Graphic Designer (Web)</h4>
+              <h5>2023</h5>
+              <p><em>Remote Job</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                  <li>Created attractive graphics for websites and online ads to grab user attention and improve engagement.</li>
+                  <li>Worked with web developers to make sure designs looked great and worked well on different devices.</li>
+                  <li>Designed simple infographics and visuals to help explain information clearly on web pages.</li>
+                  <li>Made mockups for client projects and gathered their feedback to improve designs based on their needs.</li>
               </ul>
-            </div><!-- Edn Resume Item -->
+            </div><!-- End Resume Item -->
 
           </div>
 
