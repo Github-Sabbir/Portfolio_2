@@ -12,7 +12,7 @@
           <script type="application/json" class="swiper-config">
             {
               "loop": true,
-              "speed": 600,
+              "speed": 300,
               "autoplay": {
                 "delay": 5000
               },
@@ -39,14 +39,14 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item" "="">
-            <p>
-              <i class=" bi bi-quote quote-icon-left"></i>
-                <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
-                <i class="bi bi-quote quote-icon-right"></i>
+                <p>
+                  <i class=" bi bi-quote quote-icon-left"></i>
+                  <span>I’ve had the opportunity to work with Abdul Alim for few month. His dedication and creativity are always apparent. A highlight was when he designed a marketing campaign that boosted our engagement. I enthusiastically recommend him.</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/AhatasamBappy.webp" class="testimonial-img" alt="">
+                <h3>Ahatasam Bappy</h3>
+                <h4>Police &amp; Entrepreneur</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -54,11 +54,11 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
+                  <span>I’ve had the pleasure of working with Abdul Alim for the past few months. His creativity and dedication always shine through. One memorable project was when he designed a website that received great feedback from users. I wholeheartedly recommend him.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
+                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/Sama.webp" class="testimonial-img" alt="">
+                <h3>Sumaia Sama</h3>
                 <h4>Designer</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -67,12 +67,12 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
+                  <span>I’ve enjoyed working alongside Abdul Alim for few month. His passion and skill always stand out. One notable project was when he redesigned the user interface, resulting in better user engagement. I fully support his work. I recommend him.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
+                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/Ashiq.webp" class="testimonial-img" alt="">
+                <h3>Ashiqul Islam </h3>
+                <h4>Teacher</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -80,12 +80,12 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
+                  <span>Having collaborated with Abdul Alim for few month has been rewarding. His creativity and hard work shine through in everything he does. One key project was when we developed a website that received excellent user feedback. I wholeheartedly recommend him.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
+                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/Sani.webp" class="testimonial-img" alt="">
+                <h3>Tahir Ahmad</h3>
+                <h4>Web Developer</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -93,12 +93,12 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
+                  <span>Having collaborated with Abdul Alim for few month has been rewarding. His creativity and hard work shine through in everything he does. One key project was when he developed a website that increased our traffic by 50%. I wholeheartedly recommend him.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
+                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/Rubel.webp" class="testimonial-img" alt="">
+                <h3>Kamrul Islam Rubel</h3>
+                <h4>Senior Manager at dbcnews.tv</h4>
               </div>
             </div><!-- End testimonial item -->
 
