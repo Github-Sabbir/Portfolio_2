@@ -10,3 +10,13 @@ Route::get('/Services',[FrontendRoutesController::class, 'servicesPage'])->name(
 Route::get('/Projects',[FrontendRoutesController::class, 'projectsPage'])->name('projectsPage');
 Route::get('/Contact',[FrontendRoutesController::class, 'contactPage'])->name('contactPage');
 // Page Routes End //
+
+Route::middleware([
+    'auth:sanctum',
+    config('jetstream.auth_session'),
+    'verified',
+])->group(function () {
+    Route::get('/dashboard', function () {
+        return view('dashboard');
+    })->name('dashboard');
+});
