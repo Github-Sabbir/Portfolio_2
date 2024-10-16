@@ -13,7 +13,7 @@ About
 
         <div class="row gy-4 justify-content-center">
           <div class="col-lg-4">
-            <img src="{{ asset('/')}}Frontend/assets/img/profile-img.png" class="img-fluid" alt="">
+            <img src="{{ asset('/') }}assets/Frontend/img/profile-img.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 content">
             <h2>Frontend &amp; Backend Developer</h2>

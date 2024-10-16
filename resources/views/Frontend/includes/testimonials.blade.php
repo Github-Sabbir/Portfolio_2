@@ -44,7 +44,7 @@
                   <span>I’ve had the opportunity to work with Abdul Alim for few month. His dedication and creativity are always apparent. A highlight was when he designed a marketing campaign that boosted our engagement. I enthusiastically recommend him.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/AhatasamBappy.webp" class="testimonial-img" alt="">
+                <img src="{{ asset('/') }}assets/Frontend/img/testimonials/AhatasamBappy.webp" class="testimonial-img" alt="">
                 <h3>Ahatasam Bappy</h3>
                 <h4>Police &amp; Entrepreneur</h4>
               </div>
@@ -57,7 +57,7 @@
                   <span>I’ve had the pleasure of working with Abdul Alim for the past few months. His creativity and dedication always shine through. One memorable project was when he designed a website that received great feedback from users. I wholeheartedly recommend him.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/Sama.webp" class="testimonial-img" alt="">
+                <img src="{{ asset('/') }}assets/Frontend/img/testimonials/Sama.webp" class="testimonial-img" alt="">
                 <h3>Sumaia Sama</h3>
                 <h4>Designer</h4>
               </div>
@@ -70,7 +70,7 @@
                   <span>I’ve enjoyed working alongside Abdul Alim for few month. His passion and skill always stand out. One notable project was when he redesigned the user interface, resulting in better user engagement. I fully support his work. I recommend him.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/Ashiq.webp" class="testimonial-img" alt="">
+                <img src="{{ asset('/') }}assets/Frontend/img/testimonials/Ashiq.webp" class="testimonial-img" alt="">
                 <h3>Ashiqul Islam </h3>
                 <h4>Teacher</h4>
               </div>
@@ -83,7 +83,7 @@
                   <span>Having collaborated with Abdul Alim for few month has been rewarding. His creativity and hard work shine through in everything he does. One key project was when we developed a website that received excellent user feedback. I wholeheartedly recommend him.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/Sani.webp" class="testimonial-img" alt="">
+                <img src="{{ asset('/') }}assets/Frontend/img/testimonials/Sani.webp" class="testimonial-img" alt="">
                 <h3>Tahir Ahmad</h3>
                 <h4>Web Developer</h4>
               </div>
@@ -96,7 +96,7 @@
                   <span>Having collaborated with Abdul Alim for few month has been rewarding. His creativity and hard work shine through in everything he does. One key project was when he developed a website that increased our traffic by 50%. I wholeheartedly recommend him.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="{{ asset('/')}}Frontend/assets/img/testimonials/Rubel.webp" class="testimonial-img" alt="">
+                <img src="{{ asset('/') }}assets/Frontend/img/testimonials/Rubel.webp" class="testimonial-img" alt="">
                 <h3>Kamrul Islam Rubel</h3>
                 <h4>Senior Manager at dbcnews.tv</h4>
               </div>

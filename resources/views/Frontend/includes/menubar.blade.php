@@ -2,7 +2,7 @@
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
       <a href="{{ route('homePage')}}" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="{{ asset('/') }}/Frontend/assets/img/logo.png" alt="">
+        <img src="{{ asset('/') }}assets/Frontend/img/logo.png" alt="">
         <h1 class="sitename">My Portfolio</h1>
       </a>
       <nav id="navmenu" class="navmenu">
