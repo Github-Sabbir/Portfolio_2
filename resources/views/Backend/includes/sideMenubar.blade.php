@@ -2,7 +2,7 @@
   <!-- Sidebar scroll-->
   <div>
     <div class="brand-logo d-flex align-items-center justify-content-between">
-      <a href="{{ route('dashbord') }}" class="text-nowrap logo-img">
+      <a href="{{ route('admin_dashbord') }}" class="text-nowrap logo-img">
         <img src="{{ asset('/') }}assets/Backend/images/logos/dark-logo.svg" width="180" alt="" />
       </a>
       <div class="close-btn d-xl-none d-block sidebartoggler cursor-pointer" id="sidebarCollapse">
@@ -12,100 +12,59 @@
     <!-- Sidebar navigation-->
     <nav class="sidebar-nav scroll-sidebar" data-simplebar="">
       <ul id="sidebarnav">
+        <!-- /// -->
         <li class="nav-small-cap">
           <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
           <span class="hide-menu">Home</span>
         </li>
+        <!-- small cap end -->
+
         <li class="sidebar-item">
-          <a class="sidebar-link" href="{{ route('dashbord') }}" aria-expanded="false">
-            <span>
-              <i class="ti ti-layout-dashboard"></i>
-            </span>
-            <span class="hide-menu">Dashboard</span>
+          <a class="sidebar-link {{ request()->is('/admin_dashbord') ? 'active' : ''}}" href="{{ route('admin_dashbord') }}">
+            <i class="ti ti-layout-dashboard"></i><span class="hide-menu">Dashboard</span>
           </a>
         </li>
+        <!-- /// -->
         <li class="nav-small-cap">
           <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
-          <span class="hide-menu">UI COMPONENTS</span>
+          <span class="hide-menu">Testimunial</span>
         </li>
+        <!-- small cap end -->
         <li class="sidebar-item">
-          <a class="sidebar-link" href="./ui-buttons.html" aria-expanded="false">
-            <span>
-              <i class="ti ti-article"></i>
-            </span>
-            <span class="hide-menu">Buttons</span>
+          <a class="sidebar-link {{ request()->is('/admin_testimunial') ? 'active' : ''}}" href="{{ route('admin_testimunial') }}">
+          <i class="ti ti-list-check"></i><span class="hide-menu">Testimunial List</span>
           </a>
         </li>
         <li class="sidebar-item">
-          <a class="sidebar-link" href="./ui-alerts.html" aria-expanded="false">
-            <span>
-              <i class="ti ti-alert-circle"></i>
-            </span>
-            <span class="hide-menu">Alerts</span>
+          <a class="sidebar-link {{ request()->is('/admin_testimunial_edit') ? 'active' : ''}}" href="{{ route('admin_testimunial_edit') }}">
+          <i class="ti ti-tool"></i><span class="hide-menu">Edit</span>
           </a>
         </li>
-        <li class="sidebar-item">
-          <a class="sidebar-link" href="./ui-card.html" aria-expanded="false">
-            <span>
-              <i class="ti ti-cards"></i>
-            </span>
-            <span class="hide-menu">Card</span>
-          </a>
-        </li>
-        <li class="sidebar-item">
-          <a class="sidebar-link" href="./ui-forms.html" aria-expanded="false">
-            <span>
-              <i class="ti ti-file-description"></i>
-            </span>
-            <span class="hide-menu">Forms</span>
-          </a>
-        </li>
-        <li class="sidebar-item">
-          <a class="sidebar-link" href="./ui-typography.html" aria-expanded="false">
-            <span>
-              <i class="ti ti-typography"></i>
-            </span>
-            <span class="hide-menu">Typography</span>
-          </a>
-        </li>
+        <!-- /// -->
         <li class="nav-small-cap">
           <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
-          <span class="hide-menu">AUTH</span>
+          <span class="hide-menu">Services</span>
         </li>
+        <!-- small cap end -->
         <li class="sidebar-item">
-          <a class="sidebar-link" href="./authentication-login.html" aria-expanded="false">
-            <span>
-              <i class="ti ti-login"></i>
-            </span>
-            <span class="hide-menu">Login</span>
+          <a class="sidebar-link {{ request()->is('/admin_service') ? 'active' : ''}}" href="{{ route('admin_service') }}"><i class="ti ti-list-check"></i>
+            <span class="hide-menu">Services List</span>
           </a>
         </li>
         <li class="sidebar-item">
-          <a class="sidebar-link" href="./authentication-register.html" aria-expanded="false">
-            <span>
-              <i class="ti ti-user-plus"></i>
-            </span>
-            <span class="hide-menu">Register</span>
+          <a class="sidebar-link {{ request()->is('/admin_service_edit') ? 'active' : ''}}" href="{{ route('admin_service_edit') }}">
+          <i class="ti ti-tool"></i><span class="hide-menu">Edit</span>
           </a>
         </li>
+        <!-- /// -->
         <li class="nav-small-cap">
           <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
-          <span class="hide-menu">EXTRA</span>
+          <span class="hide-menu">Contact</span>
         </li>
+        <!-- small cap end -->
         <li class="sidebar-item">
-          <a class="sidebar-link" href="./icon-tabler.html" aria-expanded="false">
-            <span>
-              <i class="ti ti-mood-happy"></i>
-            </span>
-            <span class="hide-menu">Icons</span>
-          </a>
-        </li>
-        <li class="sidebar-item">
-          <a class="sidebar-link" href="./sample-page.html" aria-expanded="false">
-            <span>
-              <i class="ti ti-aperture"></i>
-            </span>
-            <span class="hide-menu">Sample Page</span>
+          <a class="sidebar-link {{ request()->is('/admin_contactForm_edit') ? 'active' : ''}}" href="{{ route('admin_contactForm_edit') }}"><i class="ti ti-mail"></i>
+            <span class="hide-menu">Form</span>
           </a>
         </li>
       </ul>
