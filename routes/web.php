@@ -12,9 +12,8 @@ Route::get('/Projects',[FrontendRoutesController::class, 'projectsPage'])->name(
 Route::get('/Contact',[FrontendRoutesController::class, 'contactPage'])->name('contactPage');
 // Page Routes End //
 
-
 Route::middleware(['auth:sanctum', config('jetstream.auth_session'),'verified',])
-->group(function () 
+->group(function ()
 {
 Route::get('/admin_dashbord',[BackendRoutesController::class, 'admin_dashbord'])->name('admin_dashbord');
 Route::get('/admin_testimunial',[BackendRoutesController::class, 'admin_testimunial'])->name('admin_testimunial');
@@ -22,10 +21,6 @@ Route::get('/admin_testimunial_edit',[BackendRoutesController::class, 'admin_tes
 Route::get('/admin_service',[BackendRoutesController::class, 'admin_service'])->name('admin_service');
 Route::get('/admin_service_edit',[BackendRoutesController::class, 'admin_service_edit'])->name('admin_service_edit');
 Route::get('/admin_contactForm_edit',[BackendRoutesController::class, 'admin_contactForm_edit'])->name('admin_contactForm_edit');
-
-
-
-
 
 
 // Route::get('/dashboard', function () {
